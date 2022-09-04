@@ -15,4 +15,5 @@ Here are some things you should know about me:
 I am a firm believer in the "don't just learn, experience" mindset. I think everybody should have the opportunity to work hands-on in their field of interest as a part of their education. I have studied hard, listened closely, and practiced diligently - now I am ready to create, solve, and improve.
 
 Thanks for reading,
+
 Happy coding!
